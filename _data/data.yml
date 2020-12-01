@@ -63,6 +63,12 @@ education:
         I've studied for two years in this major about electrical engineering principles.
         
 experiences:
+    - role: Translator
+      time: 2017 - (Present)
+      company: Freelance
+      details: |
+        I've worked on translating a variety of text, documents, and video clips from English to Arabic and vice versa. Most of them were for educational purposes.
+        
     - role: Web Developer
       time: 2019
       company: White Room for Consulting and Training
@@ -75,11 +81,7 @@ experiences:
       details: |
         Re-implementing the old static website using Wordpress blogging framework.
      
-     - role: Translator
-      time: 2017 - (Present)
-      company: Freelance
-      details: |
-        I've worked on translating a variety of text, documents, and video clips from English to Arabic and vice versa. Most of them were for educational purposes.
+     
         
 projects:
     title: Projects
