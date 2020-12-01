@@ -134,12 +134,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microsoft Office Suite
+      - name: MS Office Suite
         level: 100%
       
-      - name: Photoshop
-        level: 40%
-       
+      - name: Google Workspace Applications
+        level: 100%
+        
       - name: Python
         level: 80%
 
