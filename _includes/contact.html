@@ -24,7 +24,15 @@
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
     </li>
     {% endif %}
+    
 
+
+    {% if sidebar.whatsapp %}
+    <li class="phone"><i class="fab fa-whatsapp"></i>
+      <a href="https://wa.link/vc1bln" target="_blank">{{ sidebar.whatsapp }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
