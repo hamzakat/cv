@@ -6,6 +6,12 @@
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.email2 %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <a href="mailto:{{ sidebar.email2 }}">{{ sidebar.email2 }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
