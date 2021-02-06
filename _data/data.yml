@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Hamza Kattan
-    tagline: Developer
+    tagline: Developer and Translator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,7 +19,7 @@ sidebar:
     linkedin: 
     github: hamzakat
     telegram: Kat963 # add your nickname without '@' sign
-    whatsapp: 001 620 2033117
+    whatsapp: 
     gitlab:
     bitbucket:
     twitter: 
@@ -56,7 +56,7 @@ education:
       university: University of the People
       time: 2018 - (Present)
       details: |
-        Currently, I'm a college sophomore, and I'm Studying a wide range of topics in computer science. My current GPA is 3.1
+        Currently, I'm a college sophomore, and I'm studying a wide range of topics in computer science. My current GPA is 3.1
         
     - degree: Electronics Engineering
       university: Al-Baath University
@@ -65,12 +65,20 @@ education:
         I've studied for two years in this major about electrical engineering principles.
         
 experiences:
+    - role: Translator
+      time: 2020 - (Present)
+      company:  <a href="https://sreoconsulting.com/" target="_blank" rel="nofollow">SREO Consulting Ltd.</a>
+      details: |
+        AR-EN Translator
+    
     - role:  Full Stack Web Developer
       time: 2019 - (Present)
       company: Freelance
       details: |
         Experienced with:
         - Bootstrap
+        - PHP
+        - PHP Laravel
         - Python Django
         - Wordrpess
     
@@ -80,12 +88,6 @@ experiences:
       details: |
         I've handled the development and design processes of the center's website.
 
-    - role: Web Developer
-      time: 2019
-      company: Ghadaq Training Center
-      details: |
-        Re-implementing the old static website using WordPress blogging framework.
-     
     - role: Translator
       time: 2017 - (Present)
       company: Freelance
