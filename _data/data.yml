@@ -65,11 +65,11 @@ education:
         I've studied for two years in this major about electrical engineering principles.
         
 experiences:
-    - role: Translator
-      time: 2020 - (Present)
-      company:  <a href="https://sreoconsulting.com/" target="_blank" rel="nofollow">SREO Consulting Ltd.</a>
-      details: |
-        AR-EN Translator
+#    - role: Translator
+#      time: 2020 - (Present)
+#      company:  <a href="https://sreoconsulting.com/" target="_blank" rel="nofollow">SREO Consulting Ltd.</a>
+#      details: |
+#        AR-EN Translator
     
     - role:  Full Stack Web Developer
       time: 2019 - (Present)
