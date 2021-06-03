@@ -35,16 +35,18 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Linguistics
+      - item: Unix-Based OS
         link:
-
+   
+      - item: Automation
+   
       - item: Reading
         link:
 
-      - item: Athletics
+      - item: Olympic Weightlifting 
         link:
       
-      - item: IT Automation
+      
 
 career-profile:
     title: Bio
